@@ -2,9 +2,9 @@
 this app is for generating QR code  from text. 
 
 ---
-##free to use 
+## free to use 
 ## clone it 
-##run npm install
+## run npm install
 # run node app
 ## boooom!! :fire:
 ---

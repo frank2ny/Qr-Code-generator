@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "frank john",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.17.1",
